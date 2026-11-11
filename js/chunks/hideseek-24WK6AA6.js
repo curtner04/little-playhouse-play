@@ -1,4 +1,4 @@
-import{a as W,b as O}from"./chunk-WW3CWIUE.js";import{k as U}from"./chunk-QODMVT6M.js";import"./chunk-2GK2JDEG.js";import"./chunk-6UW75IXT.js";var t='.game-root[data-game="hideseek"]',se=`
+import{a as W,b as O}from"./chunk-WW3CWIUE.js";import{k as U}from"./chunk-YEF5A54A.js";import"./chunk-2GK2JDEG.js";import"./chunk-6UW75IXT.js";var t='.game-root[data-game="hideseek"]',se=`
 ${t} { background: #CFEFFF; }
 ${t} .hs-scene { position: absolute; inset: 0; overflow: hidden; }
 ${t} .hs-sky { position: absolute; inset: 0; }

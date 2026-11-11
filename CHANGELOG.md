@@ -1,5 +1,11 @@
 # Little Playhouse changelog
 
+## 1.2.0 - 2026-11-11
+
+- **Heidi looks like Heidi:** a black-and-tan French bulldog with tan eyebrow spots, cheeks, chin, chest and legs, and amber eyes. The app icon shows her too. A phone that still had the old fawn colors switches to Heidi's on its own; hats, outfits and every other Dress Up choice stay as they were.
+- Dress Up: a new **tan** markings choice (black-and-tan, on any animal except the panda) and **amber** eyes. Switching back to the French bulldog brings back Heidi's black-and-tan coat (the eye color she picked stays).
+- Black coats: closed eyes now show as light lines, and a plain black French bulldog's muzzle is lighter so the nose and mouth show.
+
 ## 1.1.0 - 2026-11-11
 
 - **The companion is Heidi**, named after Caroline's dog. Every spoken line that used to say "Buddy" now says "Heidi", the pet game is now **Heidi Care**, and Dress Up starts with "Let's dress up Heidi!" A phone that saved the old default name switches to Heidi on its own.
