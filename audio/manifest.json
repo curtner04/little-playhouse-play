@@ -1,0 +1,3518 @@
+{
+ "sprites": {
+  "abc": {
+   "file": "abc.mp3",
+   "seconds": 18.66,
+   "clips": {
+    "abc.title": [
+     0.24,
+     1.192,
+     "A B C fun!"
+    ],
+    "abc.intro": [
+     1.572,
+     2.265,
+     "Let's play with letters! Tap a picture!"
+    ],
+    "abc.mode_explore": [
+     3.977,
+     1.369,
+     "Let's explore the letters!"
+    ],
+    "abc.mode_find": [
+     5.486,
+     1.283,
+     "Let's find the letters!"
+    ],
+    "abc.explore_intro": [
+     6.909,
+     1.332,
+     "Tap a letter to meet it!"
+    ],
+    "abc.tap_letter": [
+     8.381,
+     0.934,
+     "Tap a letter!"
+    ],
+    "abc.find_intro": [
+     9.454,
+     1.959,
+     "Listen close, and find the letter!"
+    ],
+    "abc.find": [
+     11.553,
+     0.736,
+     "Find"
+    ],
+    "abc.find_match": [
+     12.429,
+     2.152,
+     "Which big letter is the same as this one?"
+    ],
+    "abc.that_is": [
+     14.721,
+     0.661,
+     "That's"
+    ],
+    "abc.explored": [
+     15.522,
+     1.393,
+     "You met so many letters!"
+    ],
+    "abc.found_all": [
+     17.055,
+     1.41,
+     "You found all the letters!"
+    ]
+   }
+  },
+  "animals": {
+   "file": "animals.mp3",
+   "seconds": 130.15,
+   "clips": {
+    "animals.dog": [
+     0.24,
+     0.747,
+     "Dog!"
+    ],
+    "animals.dog_sound": [
+     1.127,
+     1.099,
+     "Woof! Woof!"
+    ],
+    "animals.dog_says": [
+     2.366,
+     1.267,
+     "The dog says woof!"
+    ],
+    "animals.cat": [
+     3.772,
+     0.696,
+     "Cat!"
+    ],
+    "animals.cat_sound": [
+     4.609,
+     1.13,
+     "Meow! Meow!"
+    ],
+    "animals.cat_says": [
+     5.878,
+     1.247,
+     "The cat says meow!"
+    ],
+    "animals.cow": [
+     7.266,
+     0.723,
+     "Cow!"
+    ],
+    "animals.cow_sound": [
+     8.128,
+     0.843,
+     "Moo! Moo!"
+    ],
+    "animals.cow_says": [
+     9.111,
+     1.177,
+     "The cow says moo!"
+    ],
+    "animals.pig": [
+     10.428,
+     0.716,
+     "Pig!"
+    ],
+    "animals.pig_sound": [
+     11.285,
+     1.021,
+     "Oink! Oink!"
+    ],
+    "animals.pig_says": [
+     12.446,
+     1.242,
+     "The pig says oink!"
+    ],
+    "animals.duck": [
+     13.828,
+     0.757,
+     "A duck!"
+    ],
+    "animals.duck_sound": [
+     14.725,
+     0.947,
+     "Quack! Quack!"
+    ],
+    "animals.duck_says": [
+     15.812,
+     1.227,
+     "The duck says quack!"
+    ],
+    "animals.sheep": [
+     17.179,
+     0.748,
+     "Sheep!"
+    ],
+    "animals.sheep_sound": [
+     18.067,
+     0.935,
+     "Baa! Baa!"
+    ],
+    "animals.sheep_says": [
+     19.142,
+     1.241,
+     "The sheep says baa!"
+    ],
+    "animals.horse": [
+     20.523,
+     0.756,
+     "Horse!"
+    ],
+    "animals.horse_sound": [
+     21.419,
+     0.683,
+     "Neigh!"
+    ],
+    "animals.horse_says": [
+     22.242,
+     1.16,
+     "The horse says neigh!"
+    ],
+    "animals.chicken": [
+     23.541,
+     0.846,
+     "Chicken!"
+    ],
+    "animals.chicken_sound": [
+     24.527,
+     1.216,
+     "Cluck, cluck, cluck!"
+    ],
+    "animals.chicken_says": [
+     25.883,
+     2.014,
+     "The chicken says cluck, cluck, cluck!"
+    ],
+    "animals.goat": [
+     28.037,
+     0.702,
+     "Goat!"
+    ],
+    "animals.goat_sound": [
+     28.88,
+     0.907,
+     "Maa! Maa!"
+    ],
+    "animals.goat_says": [
+     29.926,
+     1.181,
+     "The goat says maa!"
+    ],
+    "animals.frog": [
+     31.247,
+     0.794,
+     "Frog!"
+    ],
+    "animals.frog_sound": [
+     32.181,
+     1.141,
+     "Ribbit! Ribbit!"
+    ],
+    "animals.frog_says": [
+     33.462,
+     1.309,
+     "The frog says ribbit!"
+    ],
+    "animals.owl": [
+     34.911,
+     0.703,
+     "Owl!"
+    ],
+    "animals.owl_sound": [
+     35.754,
+     0.855,
+     "Hoo! Hoo!"
+    ],
+    "animals.owl_says": [
+     36.749,
+     1.156,
+     "The owl says hoo!"
+    ],
+    "animals.bear": [
+     38.046,
+     0.686,
+     "Bear!"
+    ],
+    "animals.bear_sound": [
+     38.871,
+     1.771,
+     "Grr! Grr!"
+    ],
+    "animals.bear_says": [
+     40.782,
+     1.476,
+     "The bear says grr!"
+    ],
+    "animals.wolf": [
+     42.399,
+     0.736,
+     "Wolf!"
+    ],
+    "animals.wolf_sound": [
+     43.275,
+     0.772,
+     "Ah-woooo!"
+    ],
+    "animals.wolf_says": [
+     44.187,
+     1.264,
+     "The wolf says ah-woooo!"
+    ],
+    "animals.mouse": [
+     45.591,
+     0.715,
+     "Mouse!"
+    ],
+    "animals.mouse_sound": [
+     46.445,
+     1.095,
+     "Squeak! Squeak!"
+    ],
+    "animals.mouse_says": [
+     47.681,
+     1.225,
+     "The mouse says squeak!"
+    ],
+    "animals.bird": [
+     49.046,
+     0.715,
+     "Bird!"
+    ],
+    "animals.bird_sound": [
+     49.9,
+     1.099,
+     "Tweet! Tweet!"
+    ],
+    "animals.bird_says": [
+     51.139,
+     1.247,
+     "The bird says tweet!"
+    ],
+    "animals.bee": [
+     52.526,
+     0.672,
+     "Bee!"
+    ],
+    "animals.bee_sound": [
+     53.338,
+     1.035,
+     "Buzz! Buzz!"
+    ],
+    "animals.bee_says": [
+     54.513,
+     1.177,
+     "The bee says buzz!"
+    ],
+    "animals.lion": [
+     55.83,
+     0.778,
+     "Lion!"
+    ],
+    "animals.lion_sound": [
+     56.748,
+     0.723,
+     "Roar!"
+    ],
+    "animals.lion_says": [
+     57.61,
+     1.288,
+     "The lion says roar!"
+    ],
+    "animals.tiger": [
+     59.038,
+     0.784,
+     "Tiger!"
+    ],
+    "animals.tiger_sound": [
+     59.962,
+     1.062,
+     "Rrroar!"
+    ],
+    "animals.tiger_says": [
+     61.163,
+     1.692,
+     "The tiger says rrroar!"
+    ],
+    "animals.monkey": [
+     62.996,
+     0.789,
+     "Monkey!"
+    ],
+    "animals.monkey_sound": [
+     63.925,
+     1.248,
+     "Ooh ooh! Ah ah!"
+    ],
+    "animals.monkey_says": [
+     65.313,
+     1.369,
+     "The monkey says ooh ooh!"
+    ],
+    "animals.elephant": [
+     66.822,
+     0.86,
+     "Elephant!"
+    ],
+    "animals.elephant_sound": [
+     67.823,
+     1.29,
+     "Pawoo! Toot toot!"
+    ],
+    "animals.elephant_says": [
+     69.253,
+     1.397,
+     "The elephant says pawoo!"
+    ],
+    "animals.snake": [
+     70.79,
+     0.779,
+     "Snake!"
+    ],
+    "animals.snake_sound": [
+     71.709,
+     0.693,
+     "Hissss!"
+    ],
+    "animals.snake_says": [
+     72.542,
+     1.22,
+     "The snake says hissss!"
+    ],
+    "animals.dinosaur": [
+     73.902,
+     0.923,
+     "Dinosaur!"
+    ],
+    "animals.dinosaur_sound": [
+     74.965,
+     0.736,
+     "Rawr!"
+    ],
+    "animals.dinosaur_says": [
+     75.841,
+     1.435,
+     "The dinosaur says rawr!"
+    ],
+    "animals.seal": [
+     77.416,
+     0.756,
+     "Seal!"
+    ],
+    "animals.seal_sound": [
+     78.313,
+     1.025,
+     "Arf! Arf!"
+    ],
+    "animals.seal_says": [
+     79.478,
+     1.303,
+     "The seal says arf!"
+    ],
+    "animals.whale": [
+     80.921,
+     0.715,
+     "Whale!"
+    ],
+    "animals.whale_sound": [
+     81.777,
+     1.162,
+     "Whoosh! Splash!"
+    ],
+    "animals.whale_says": [
+     83.078,
+     1.22,
+     "The whale says whoosh!"
+    ],
+    "animals.penguin": [
+     84.439,
+     0.809,
+     "Penguin!"
+    ],
+    "animals.penguin_sound": [
+     85.387,
+     1.133,
+     "Squawk! Squawk!"
+    ],
+    "animals.penguin_says": [
+     86.66,
+     1.458,
+     "The penguin says squawk!"
+    ],
+    "animals.turkey": [
+     88.258,
+     0.779,
+     "Turkey!"
+    ],
+    "animals.turkey_sound": [
+     89.177,
+     1.111,
+     "Gobble gobble!"
+    ],
+    "animals.turkey_says": [
+     90.428,
+     1.735,
+     "The turkey says gobble gobble!"
+    ],
+    "animals.rabbit": [
+     92.303,
+     0.697,
+     "Bunny!"
+    ],
+    "animals.rabbit_sound": [
+     93.14,
+     1.218,
+     "Hop, hop, hop!"
+    ],
+    "animals.rabbit_says": [
+     94.498,
+     1.839,
+     "The bunny says hop, hop, hop!"
+    ],
+    "animals.fish": [
+     96.477,
+     0.68,
+     "Fish!"
+    ],
+    "animals.fish_sound": [
+     97.296,
+     1.449,
+     "Blub, blub, blub!"
+    ],
+    "animals.fish_says": [
+     98.885,
+     2.04,
+     "The fish says blub, blub, blub!"
+    ],
+    "animals.title": [
+     101.065,
+     1.12,
+     "Animal sounds!"
+    ],
+    "animals.menu": [
+     102.325,
+     2.274,
+     "Do you want to explore, or play who says?"
+    ],
+    "animals.explore": [
+     104.739,
+     1.47,
+     "Let's explore the animals!"
+    ],
+    "animals.whosays": [
+     106.349,
+     0.821,
+     "Who says?"
+    ],
+    "animals.explore_intro": [
+     107.31,
+     1.679,
+     "Tap the animals to hear them!"
+    ],
+    "animals.tap_animal": [
+     109.129,
+     1.103,
+     "Tap an animal!"
+    ],
+    "animals.h_farm": [
+     110.372,
+     0.885,
+     "The farm!"
+    ],
+    "animals.h_jungle": [
+     111.397,
+     0.87,
+     "The jungle!"
+    ],
+    "animals.h_ocean": [
+     112.407,
+     0.873,
+     "The ocean!"
+    ],
+    "animals.h_forest": [
+     113.42,
+     0.903,
+     "The forest!"
+    ],
+    "animals.explore_done": [
+     114.463,
+     1.454,
+     "You met so many animals!"
+    ],
+    "animals.whosays_intro": [
+     116.057,
+     1.205,
+     "Listen to the sound!"
+    ],
+    "animals.who": [
+     117.402,
+     0.943,
+     "Who says that?"
+    ],
+    "animals.hmm_listen": [
+     118.485,
+     1.367,
+     "Hmm. Listen again!"
+    ],
+    "animals.whosays_done": [
+     119.992,
+     1.184,
+     "You know your animals!"
+    ],
+    "animals.dolphin": [
+     121.316,
+     0.839,
+     "Dolphin!"
+    ],
+    "animals.dolphin_sound": [
+     122.295,
+     1.013,
+     "Whee! Whee! Whee!"
+    ],
+    "animals.octopus": [
+     123.448,
+     0.896,
+     "Octopus!"
+    ],
+    "animals.octopus_sound": [
+     124.484,
+     1.449,
+     "Blub, blub, blub!"
+    ],
+    "animals.crab": [
+     126.073,
+     0.724,
+     "Crab!"
+    ],
+    "animals.crab_sound": [
+     126.936,
+     0.954,
+     "Click clack!"
+    ],
+    "animals.fox": [
+     128.03,
+     0.853,
+     "A fox!"
+    ],
+    "animals.fox_sound": [
+     129.024,
+     0.928,
+     "Yip! Yip!"
+    ]
+   }
+  },
+  "bubbles": {
+   "file": "bubbles.mp3",
+   "seconds": 22.68,
+   "clips": {
+    "bubbles.title": [
+     0.24,
+     0.968,
+     "Bubble pop!"
+    ],
+    "bubbles.pop_the": [
+     1.348,
+     0.863,
+     "Pop the"
+    ],
+    "bubbles.tap_to_pop": [
+     2.351,
+     1.679,
+     "Tap the bubbles to pop them!"
+    ],
+    "bubbles.theme_colors": [
+     4.17,
+     1.116,
+     "Color bubbles!"
+    ],
+    "bubbles.theme_animals": [
+     5.426,
+     1.15,
+     "Animal bubbles!"
+    ],
+    "bubbles.theme_letters": [
+     6.716,
+     1.01,
+     "Letter bubbles!"
+    ],
+    "bubbles.theme_numbers": [
+     7.866,
+     1.032,
+     "Number bubbles!"
+    ],
+    "bubbles.round_done": [
+     9.038,
+     1.311,
+     "You got all the stars!"
+    ],
+    "bubbles.win": [
+     10.489,
+     1.258,
+     "What a bubble popper!"
+    ],
+    "bubbles.pop_red": [
+     11.888,
+     1.339,
+     "Pop the red bubbles!"
+    ],
+    "bubbles.pop_yellow": [
+     13.367,
+     1.434,
+     "Pop the yellow bubbles!"
+    ],
+    "bubbles.pop_blue": [
+     14.941,
+     1.341,
+     "Pop the blue bubbles!"
+    ],
+    "bubbles.pop_green": [
+     16.422,
+     1.411,
+     "Pop the green bubbles!"
+    ],
+    "bubbles.pop_orange": [
+     17.973,
+     1.411,
+     "Pop the orange bubbles!"
+    ],
+    "bubbles.pop_purple": [
+     19.525,
+     1.486,
+     "Pop the purple bubbles!"
+    ],
+    "bubbles.pop_pink": [
+     21.151,
+     1.33,
+     "Pop the pink bubbles!"
+    ]
+   }
+  },
+  "buddy": {
+   "file": "buddy.mp3",
+   "seconds": 31.89,
+   "clips": {
+    "buddy.closet_hi": [
+     0.24,
+     1.348,
+     "Let's dress up Heidi!"
+    ],
+    "buddy.pick_friend": [
+     1.728,
+     0.951,
+     "Pick a friend!"
+    ],
+    "buddy.pick_color": [
+     2.818,
+     0.908,
+     "Pick a color!"
+    ],
+    "buddy.pick_spots": [
+     3.867,
+     1.134,
+     "Pick some spots!"
+    ],
+    "buddy.pick_eyes": [
+     5.141,
+     1.255,
+     "Pick pretty eyes!"
+    ],
+    "buddy.pick_hat": [
+     6.536,
+     0.889,
+     "Pick a hat!"
+    ],
+    "buddy.pick_glasses": [
+     7.565,
+     1.195,
+     "Pick some glasses!"
+    ],
+    "buddy.pick_neck": [
+     8.9,
+     1.454,
+     "Pick a collar or a bow!"
+    ],
+    "buddy.pick_outfit": [
+     10.494,
+     1.07,
+     "Pick an outfit!"
+    ],
+    "buddy.so_pretty": [
+     11.703,
+     0.929,
+     "So pretty!"
+    ],
+    "buddy.looking_good": [
+     12.772,
+     0.949,
+     "Looking good!"
+    ],
+    "buddy.i_love_it": [
+     13.862,
+     0.855,
+     "I love it!"
+    ],
+    "buddy.so_cool": [
+     14.857,
+     0.906,
+     "So cool!"
+    ],
+    "buddy.all_better": [
+     15.903,
+     1.269,
+     "All fresh and clean!"
+    ],
+    "buddy.surprise": [
+     17.312,
+     0.905,
+     "Surprise!"
+    ],
+    "buddy.frenchie": [
+     18.357,
+     1.246,
+     "A French bulldog!"
+    ],
+    "buddy.puppy": [
+     19.743,
+     0.831,
+     "A puppy!"
+    ],
+    "buddy.kitty": [
+     20.714,
+     0.829,
+     "A kitty!"
+    ],
+    "buddy.bunny": [
+     21.682,
+     0.799,
+     "A bunny!"
+    ],
+    "buddy.bear": [
+     22.621,
+     0.984,
+     "A teddy bear!"
+    ],
+    "buddy.panda": [
+     23.745,
+     0.859,
+     "A panda!"
+    ],
+    "buddy.unicorn": [
+     24.744,
+     1.051,
+     "A unicorn!"
+    ],
+    "buddy.giggle": [
+     25.934,
+     0.9,
+     "Tee hee hee!"
+    ],
+    "buddy.hee_hee": [
+     26.975,
+     1.322,
+     "Hee hee! That's me!"
+    ],
+    "buddy.that_tickles": [
+     28.437,
+     0.982,
+     "That tickles!"
+    ],
+    "buddy.hug": [
+     29.559,
+     0.768,
+     "Hugs!"
+    ],
+    "buddy.hi": [
+     30.467,
+     1.228,
+     "Hi! I'm Heidi!"
+    ]
+   }
+  },
+  "care": {
+   "file": "care.mp3",
+   "seconds": 46.39,
+   "clips": {
+    "care.title": [
+     0.24,
+     1.211,
+     "Take care of Heidi!"
+    ],
+    "care.intro": [
+     1.591,
+     2.582,
+     "Heidi needs your help! Let's take care of Heidi."
+    ],
+    "care.need_hungry": [
+     4.313,
+     2.428,
+     "Heidi is hungry! Give Heidi some food."
+    ],
+    "care.need_thirsty": [
+     6.881,
+     2.537,
+     "Heidi is thirsty! Give Heidi some water."
+    ],
+    "care.need_dirty": [
+     9.557,
+     2.835,
+     "Oh no, Heidi is all muddy! Give Heidi a bath."
+    ],
+    "care.need_sleepy": [
+     12.532,
+     2.473,
+     "Heidi is sleepy. Help Heidi go to sleep."
+    ],
+    "care.need_bored": [
+     15.145,
+     2.475,
+     "Heidi wants to play! Play ball with Heidi."
+    ],
+    "care.need_love": [
+     17.759,
+     2.451,
+     "Heidi wants a hug! Give Heidi some love."
+    ],
+    "care.nothanks": [
+     20.351,
+     1.043,
+     "No thank you!"
+    ],
+    "care.yum": [
+     21.534,
+     1.724,
+     "Yum yum yum! Thank you!"
+    ],
+    "care.gulp": [
+     23.398,
+     2.124,
+     "Gulp gulp gulp! Ahh, so good!"
+    ],
+    "care.scrub": [
+     25.662,
+     1.92,
+     "Scrub, scrub, scrub the mud!"
+    ],
+    "care.clean": [
+     27.721,
+     2.251,
+     "Splish splash! Heidi is all clean!"
+    ],
+    "care.sleeping": [
+     30.112,
+     2.517,
+     "Shh. Heidi is sleeping. Night night."
+    ],
+    "care.rested": [
+     32.769,
+     2.392,
+     "Good morning! Heidi feels all rested!"
+    ],
+    "care.throw": [
+     35.301,
+     2.09,
+     "Heidi loves to fetch! Go get it!"
+    ],
+    "care.played": [
+     37.531,
+     1.939,
+     "That was so much fun! Thank you!"
+    ],
+    "care.loved": [
+     39.61,
+     1.931,
+     "Aww! Heidi loves you so much!"
+    ],
+    "care.next": [
+     41.681,
+     1.447,
+     "What does Heidi need now?"
+    ],
+    "care.all_happy": [
+     43.268,
+     2.921,
+     "Heidi is so happy! You took such good care of Heidi!"
+    ]
+   }
+  },
+  "cleanup": {
+   "file": "cleanup.mp3",
+   "seconds": 35.72,
+   "clips": {
+    "cleanup.title": [
+     0.24,
+     1.055,
+     "Clean up time!"
+    ],
+    "cleanup.intro": [
+     1.435,
+     2.265,
+     "Uh oh! What a mess! Let's clean up!"
+    ],
+    "cleanup.room_bedroom": [
+     3.84,
+     2.154,
+     "This is the bedroom. Let's tidy up!"
+    ],
+    "cleanup.room_playroom": [
+     6.134,
+     2.293,
+     "Now the playroom! Oh my, more mess!"
+    ],
+    "cleanup.room_living": [
+     8.567,
+     2.293,
+     "Last one, the living room! Let's go!"
+    ],
+    "cleanup.go_toys": [
+     11.001,
+     1.568,
+     "Toys go in the toy box!"
+    ],
+    "cleanup.go_books": [
+     12.709,
+     1.291,
+     "Books go on the shelf!"
+    ],
+    "cleanup.go_clothes": [
+     14.139,
+     1.407,
+     "Clothes go in the basket!"
+    ],
+    "cleanup.go_shoes": [
+     15.686,
+     1.463,
+     "Shoes go on the shoe rack!"
+    ],
+    "cleanup.in_toys": [
+     17.289,
+     1.12,
+     "In the toy box!"
+    ],
+    "cleanup.in_books": [
+     18.549,
+     0.9,
+     "On the shelf!"
+    ],
+    "cleanup.in_clothes": [
+     19.589,
+     1.004,
+     "In the basket!"
+    ],
+    "cleanup.in_shoes": [
+     20.733,
+     1.028,
+     "On the shoe rack!"
+    ],
+    "cleanup.where": [
+     21.901,
+     0.996,
+     "Where does it go?"
+    ],
+    "cleanup.drag_it": [
+     23.037,
+     1.396,
+     "Drag it to where it goes!"
+    ],
+    "cleanup.room_clean": [
+     24.572,
+     1.75,
+     "All clean! Great job!"
+    ],
+    "cleanup.all": [
+     26.462,
+     2.225,
+     "You cleaned up everything! What a helper!"
+    ],
+    "cleanup.book_red": [
+     28.828,
+     0.885,
+     "Red book!"
+    ],
+    "cleanup.book_green": [
+     29.853,
+     0.885,
+     "Green book!"
+    ],
+    "cleanup.book_blue": [
+     30.878,
+     0.85,
+     "Blue book!"
+    ],
+    "cleanup.book_orange": [
+     31.868,
+     1.01,
+     "Orange book!"
+    ],
+    "cleanup.cap": [
+     33.018,
+     0.707,
+     "Cap!"
+    ],
+    "cleanup.boot": [
+     33.864,
+     0.705,
+     "Boot!"
+    ],
+    "cleanup.sandal": [
+     34.71,
+     0.808,
+     "Sandal!"
+    ]
+   }
+  },
+  "coloring": {
+   "file": "coloring.mp3",
+   "seconds": 31.79,
+   "clips": {
+    "coloring.title": [
+     0.24,
+     1.064,
+     "Coloring book!"
+    ],
+    "coloring.intro": [
+     1.444,
+     1.38,
+     "Pick a picture to color!"
+    ],
+    "coloring.tap_paint": [
+     2.964,
+     1.995,
+     "Pick a color, then tap the picture!"
+    ],
+    "coloring.peach": [
+     5.099,
+     0.782,
+     "Peach!"
+    ],
+    "coloring.rainbow": [
+     6.02,
+     0.869,
+     "Rainbow!"
+    ],
+    "coloring.pretty": [
+     7.029,
+     0.929,
+     "So pretty!"
+    ],
+    "coloring.love": [
+     8.098,
+     1.163,
+     "I love that color!"
+    ],
+    "coloring.nice_color": [
+     9.401,
+     1.088,
+     "What a nice color!"
+    ],
+    "coloring.all_done": [
+     10.629,
+     2.438,
+     "You colored the whole picture! Tap the check!"
+    ],
+    "coloring.win": [
+     13.206,
+     1.41,
+     "What a beautiful picture!"
+    ],
+    "coloring.color_first": [
+     14.757,
+     1.622,
+     "Let's color something first!"
+    ],
+    "coloring.clear_sure": [
+     16.518,
+     1.706,
+     "Start over? Tap again!"
+    ],
+    "coloring.cleared": [
+     18.364,
+     1.995,
+     "All clean! Let's color again!"
+    ],
+    "coloring.p_frenchie": [
+     20.499,
+     1.246,
+     "A French bulldog!"
+    ],
+    "coloring.p_duck": [
+     21.885,
+     0.757,
+     "A duck!"
+    ],
+    "coloring.p_house": [
+     22.782,
+     0.791,
+     "A house!"
+    ],
+    "coloring.p_flower": [
+     23.714,
+     0.877,
+     "A flower!"
+    ],
+    "coloring.p_fish": [
+     24.73,
+     0.791,
+     "A fish!"
+    ],
+    "coloring.p_butterfly": [
+     25.662,
+     1.021,
+     "A butterfly!"
+    ],
+    "coloring.p_rainbow": [
+     26.822,
+     0.885,
+     "A rainbow!"
+    ],
+    "coloring.p_car": [
+     27.847,
+     0.81,
+     "A car!"
+    ],
+    "coloring.p_icecream": [
+     28.798,
+     0.973,
+     "Ice cream!"
+    ],
+    "coloring.p_sun": [
+     29.911,
+     0.779,
+     "The sun!"
+    ],
+    "coloring.p_moon": [
+     30.829,
+     0.757,
+     "The moon!"
+    ]
+   }
+  },
+  "colors": {
+   "file": "colors.mp3",
+   "seconds": 58.61,
+   "clips": {
+    "colors.red": [
+     0.24,
+     0.672,
+     "Red!"
+    ],
+    "colors.orange": [
+     1.052,
+     0.757,
+     "Orange!"
+    ],
+    "colors.yellow": [
+     1.949,
+     0.746,
+     "Yellow!"
+    ],
+    "colors.green": [
+     2.836,
+     0.764,
+     "Green!"
+    ],
+    "colors.blue": [
+     3.74,
+     0.721,
+     "Blue!"
+    ],
+    "colors.purple": [
+     4.6,
+     0.792,
+     "Purple!"
+    ],
+    "colors.pink": [
+     5.532,
+     0.715,
+     "Pink!"
+    ],
+    "colors.brown": [
+     6.387,
+     0.759,
+     "Brown!"
+    ],
+    "colors.black": [
+     7.286,
+     0.713,
+     "Black!"
+    ],
+    "colors.white": [
+     8.139,
+     0.725,
+     "White!"
+    ],
+    "colors.gray": [
+     9.004,
+     0.73,
+     "Gray!"
+    ],
+    "colors.title": [
+     9.874,
+     1.032,
+     "Color splash!"
+    ],
+    "colors.hello": [
+     11.046,
+     1.372,
+     "Let's play with colors!"
+    ],
+    "colors.find_red": [
+     12.558,
+     1.264,
+     "Find the red one!"
+    ],
+    "colors.find_orange": [
+     13.962,
+     1.317,
+     "Find the orange one!"
+    ],
+    "colors.find_yellow": [
+     15.419,
+     1.31,
+     "Find the yellow one!"
+    ],
+    "colors.find_green": [
+     16.868,
+     1.269,
+     "Find the green one!"
+    ],
+    "colors.find_blue": [
+     18.278,
+     1.184,
+     "Find the blue one!"
+    ],
+    "colors.find_purple": [
+     19.602,
+     1.331,
+     "Find the purple one!"
+    ],
+    "colors.find_pink": [
+     21.073,
+     1.242,
+     "Find the pink one!"
+    ],
+    "colors.find_brown": [
+     22.455,
+     1.354,
+     "Find the brown one!"
+    ],
+    "colors.find_black": [
+     23.949,
+     1.283,
+     "Find the black one!"
+    ],
+    "colors.find_white": [
+     25.372,
+     1.213,
+     "Find the white one!"
+    ],
+    "colors.find_gray": [
+     26.726,
+     1.227,
+     "Find the gray one!"
+    ],
+    "colors.sort_intro": [
+     28.092,
+     2.208,
+     "Put each one in the paint pot that matches!"
+    ],
+    "colors.sort_wrong": [
+     30.44,
+     2.036,
+     "Not that pot. Try another one!"
+    ],
+    "colors.sort_in": [
+     32.616,
+     0.936,
+     "In it goes!"
+    ],
+    "colors.mix_red_yellow": [
+     33.693,
+     2.763,
+     "Let's mix paint! Put red and yellow in the bowl!"
+    ],
+    "colors.mix_blue_yellow": [
+     36.595,
+     2.72,
+     "Let's mix paint! Put blue and yellow in the bowl!"
+    ],
+    "colors.mix_red_blue": [
+     39.455,
+     2.656,
+     "Let's mix paint! Put red and blue in the bowl!"
+    ],
+    "colors.mix_red_white": [
+     42.251,
+     2.677,
+     "Let's mix paint! Put red and white in the bowl!"
+    ],
+    "colors.mix_wrong": [
+     45.069,
+     2.549,
+     "Not that one! Try the pots that are glowing."
+    ],
+    "colors.mix_swirl": [
+     47.758,
+     1.355,
+     "Swirl, swirl, swirl!"
+    ],
+    "colors.made_orange": [
+     49.253,
+     1.504,
+     "Red and yellow make orange!"
+    ],
+    "colors.made_green": [
+     50.897,
+     1.511,
+     "Blue and yellow make green!"
+    ],
+    "colors.made_purple": [
+     52.547,
+     1.449,
+     "Red and blue make purple!"
+    ],
+    "colors.made_pink": [
+     54.137,
+     1.386,
+     "Red and white make pink!"
+    ],
+    "colors.next": [
+     55.663,
+     1.502,
+     "Here we go! Next one!"
+    ],
+    "colors.all": [
+     57.305,
+     1.107,
+     "You know your colors!"
+    ]
+   }
+  },
+  "common": {
+   "file": "common.mp3",
+   "seconds": 64.04,
+   "clips": {
+    "common.great_job": [
+     0.24,
+     0.935,
+     "Great job!"
+    ],
+    "common.you_did_it": [
+     1.315,
+     0.843,
+     "You did it!"
+    ],
+    "common.yay": [
+     2.297,
+     0.674,
+     "Yay!"
+    ],
+    "common.awesome": [
+     3.111,
+     0.803,
+     "Awesome!"
+    ],
+    "common.super": [
+     4.054,
+     0.795,
+     "Super!"
+    ],
+    "common.wow": [
+     4.989,
+     0.681,
+     "Wow!"
+    ],
+    "common.hooray": [
+     5.81,
+     0.794,
+     "Hooray!"
+    ],
+    "common.amazing": [
+     6.744,
+     0.831,
+     "Amazing!"
+    ],
+    "common.way_to_go": [
+     7.715,
+     0.925,
+     "Way to go!"
+    ],
+    "common.fantastic": [
+     8.78,
+     1.001,
+     "Fantastic!"
+    ],
+    "common.woo_hoo": [
+     9.921,
+     0.797,
+     "Woo hoo!"
+    ],
+    "common.nice_work": [
+     10.858,
+     0.928,
+     "Nice work!"
+    ],
+    "common.perfect": [
+     11.926,
+     0.814,
+     "Perfect!"
+    ],
+    "common.you_are_so_smart": [
+     12.88,
+     1.083,
+     "You're so smart!"
+    ],
+    "common.high_five": [
+     14.103,
+     0.907,
+     "High five!"
+    ],
+    "common.try_again": [
+     15.15,
+     0.957,
+     "Try again!"
+    ],
+    "common.oops_try_again": [
+     16.247,
+     1.214,
+     "Oops! Try again!"
+    ],
+    "common.almost": [
+     17.601,
+     0.885,
+     "Almost!"
+    ],
+    "common.not_that_one": [
+     18.626,
+     1.214,
+     "Hmm, not that one."
+    ],
+    "common.keep_trying": [
+     19.98,
+     1.043,
+     "Keep trying!"
+    ],
+    "common.you_can_do_it": [
+     21.163,
+     0.971,
+     "You can do it!"
+    ],
+    "common.hi_child": [
+     22.274,
+     1.778,
+     "Hi, Caroline! Let's play!"
+    ],
+    "common.hi_friend": [
+     24.192,
+     1.37,
+     "Hi there! Let's play!"
+    ],
+    "common.lets_play": [
+     25.702,
+     0.927,
+     "Let's play!"
+    ],
+    "common.tap_to_play": [
+     26.769,
+     1.011,
+     "Tap to play!"
+    ],
+    "common.play_again": [
+     27.92,
+     0.911,
+     "Play again?"
+    ],
+    "common.bye": [
+     28.971,
+     0.883,
+     "Bye bye!"
+    ],
+    "common.sticker": [
+     29.994,
+     1.09,
+     "You got a sticker!"
+    ],
+    "common.sticker_book": [
+     31.224,
+     1.355,
+     "Look at all your stickers!"
+    ],
+    "common.no_stickers_yet": [
+     32.719,
+     1.565,
+     "Play a game to win a sticker!"
+    ],
+    "common.break_time": [
+     34.424,
+     2.464,
+     "All done for now. Time for a little break!"
+    ],
+    "common.ready_go": [
+     37.028,
+     1.176,
+     "Ready? Go!"
+    ],
+    "common.your_turn": [
+     38.344,
+     0.881,
+     "Your turn!"
+    ],
+    "common.uh_oh": [
+     39.365,
+     0.785,
+     "Uh oh!"
+    ],
+    "common.ta_da": [
+     40.29,
+     0.795,
+     "Ta-da!"
+    ],
+    "common.whoa": [
+     41.225,
+     0.687,
+     "Whoa!"
+    ],
+    "common.peekaboo": [
+     42.053,
+     0.888,
+     "Peekaboo!"
+    ],
+    "common.hello": [
+     43.08,
+     0.769,
+     "Hello!"
+    ],
+    "common.one_more": [
+     43.989,
+     0.859,
+     "One more!"
+    ],
+    "common.all_done": [
+     44.988,
+     0.842,
+     "All done!"
+    ],
+    "common.lets_go": [
+     45.97,
+     0.903,
+     "Let's go!"
+    ],
+    "common.look": [
+     47.013,
+     0.704,
+     "Look!"
+    ],
+    "common.tap_it": [
+     47.857,
+     0.821,
+     "Tap it!"
+    ],
+    "common.pick_one": [
+     48.818,
+     0.818,
+     "Pick one!"
+    ],
+    "common.again": [
+     49.776,
+     0.767,
+     "Again!"
+    ],
+    "common.good_try": [
+     50.683,
+     0.876,
+     "Good try!"
+    ],
+    "common.thats_it": [
+     51.699,
+     0.83,
+     "That's it!"
+    ],
+    "common.you_found_it": [
+     52.669,
+     0.948,
+     "You found it!"
+    ],
+    "common.how_many": [
+     53.757,
+     0.841,
+     "How many?"
+    ],
+    "common.which_one": [
+     54.737,
+     0.856,
+     "Which one?"
+    ],
+    "common.find_it": [
+     55.733,
+     1.077,
+     "Can you find it?"
+    ],
+    "common.drag_it": [
+     56.951,
+     0.779,
+     "Drag it!"
+    ],
+    "common.put_it_here": [
+     57.869,
+     0.841,
+     "Put it here!"
+    ],
+    "common.level_up": [
+     58.85,
+     0.864,
+     "Level up!"
+    ],
+    "common.so_fun": [
+     59.854,
+     1.108,
+     "That was so fun!"
+    ],
+    "common.thank_you": [
+     61.102,
+     0.87,
+     "Thank you!"
+    ],
+    "common.listen": [
+     62.113,
+     0.748,
+     "Listen!"
+    ],
+    "common.goodnight": [
+     63.001,
+     0.838,
+     "Good night!"
+    ]
+   }
+  },
+  "feelings": {
+   "file": "feelings.mp3",
+   "seconds": 101.14,
+   "clips": {
+    "feelings.title": [
+     0.24,
+     0.887,
+     "Feelings!"
+    ],
+    "feelings.menu": [
+     1.267,
+     3.289,
+     "Pick one! Let's feel with Heidi, or guess how Heidi feels!"
+    ],
+    "feelings.explore_intro": [
+     4.696,
+     2.75,
+     "Let's explore feelings with Heidi! Tap a face!"
+    ],
+    "feelings.quiz_intro": [
+     7.586,
+     1.494,
+     "Let's see how Heidi feels!"
+    ],
+    "feelings.tap_face": [
+     9.22,
+     1.012,
+     "Tap a face!"
+    ],
+    "feelings.tap_another": [
+     10.372,
+     1.141,
+     "Tap another face!"
+    ],
+    "feelings.how": [
+     11.653,
+     1.27,
+     "How does Heidi feel?"
+    ],
+    "feelings.c_happy": [
+     13.063,
+     2.784,
+     "Happy! I feel happy. Smiling makes me happy!"
+    ],
+    "feelings.c_sad": [
+     15.987,
+     2.027,
+     "Sad. When I'm sad, a hug helps."
+    ],
+    "feelings.c_mad": [
+     18.154,
+     1.92,
+     "Mad. Let's take a big breath."
+    ],
+    "feelings.c_surprised": [
+     20.214,
+     1.824,
+     "Surprised! Ooh, what is it?"
+    ],
+    "feelings.c_scared": [
+     22.178,
+     2.884,
+     "Scared. It's okay. I'm safe. A hug helps."
+    ],
+    "feelings.c_sleepy": [
+     25.202,
+     2.717,
+     "Sleepy. Yawn. Time for a cozy rest."
+    ],
+    "feelings.c_silly": [
+     28.058,
+     1.917,
+     "Silly! Hee hee! I'm being silly!"
+    ],
+    "feelings.c_love": [
+     30.115,
+     1.717,
+     "Love! I love you so much!"
+    ],
+    "feelings.breathe_in": [
+     31.973,
+     1.736,
+     "Breathe in, nice and slow."
+    ],
+    "feelings.breathe_out": [
+     33.849,
+     1.022,
+     "And breathe out."
+    ],
+    "feelings.calm": [
+     35.011,
+     1.498,
+     "Ahh. That feels better."
+    ],
+    "feelings.hug": [
+     36.648,
+     1.547,
+     "Hugs! Now I feel better."
+    ],
+    "feelings.night": [
+     38.335,
+     0.907,
+     "Night night."
+    ],
+    "feelings.explore_done": [
+     39.382,
+     1.431,
+     "You know so many feelings!"
+    ],
+    "feelings.story_present": [
+     40.953,
+     1.327,
+     "Heidi got a present!"
+    ],
+    "feelings.story_icecream": [
+     42.42,
+     2.167,
+     "Oh no! Heidi dropped the ice cream!"
+    ],
+    "feelings.story_tower": [
+     44.727,
+     2.152,
+     "Oh no! Heidi's tower fell down!"
+    ],
+    "feelings.story_party": [
+     47.02,
+     2.247,
+     "Surprise! It's a party for Heidi!"
+    ],
+    "feelings.story_thunder": [
+     49.406,
+     1.952,
+     "Boom! Heidi hears loud thunder!"
+    ],
+    "feelings.story_bed": [
+     51.498,
+     1.537,
+     "It's bedtime for Heidi."
+    ],
+    "feelings.story_mirror": [
+     53.175,
+     2.397,
+     "Heidi is making funny faces in the mirror!"
+    ],
+    "feelings.story_hug": [
+     55.712,
+     1.739,
+     "Heidi gets a big, big hug!"
+    ],
+    "feelings.yes_happy": [
+     57.591,
+     1.611,
+     "Yes! Heidi feels happy!"
+    ],
+    "feelings.yes_sad": [
+     59.341,
+     1.525,
+     "Yes! Heidi feels sad."
+    ],
+    "feelings.yes_mad": [
+     61.007,
+     1.611,
+     "Yes! Heidi feels mad."
+    ],
+    "feelings.yes_surprised": [
+     62.757,
+     1.909,
+     "Yes! Heidi feels surprised!"
+    ],
+    "feelings.yes_scared": [
+     64.807,
+     1.71,
+     "Yes! Heidi feels scared."
+    ],
+    "feelings.yes_sleepy": [
+     66.657,
+     1.696,
+     "Yes! Heidi feels sleepy."
+    ],
+    "feelings.yes_silly": [
+     68.493,
+     1.66,
+     "Yes! Heidi feels silly!"
+    ],
+    "feelings.yes_love": [
+     70.293,
+     1.568,
+     "Yes! Heidi feels love!"
+    ],
+    "feelings.not_happy": [
+     72.001,
+     2.92,
+     "Hmm, Heidi doesn't look happy. Look at Heidi's face!"
+    ],
+    "feelings.not_sad": [
+     75.062,
+     2.92,
+     "Hmm, Heidi doesn't look sad. Look at Heidi's face!"
+    ],
+    "feelings.not_mad": [
+     78.122,
+     3.027,
+     "Hmm, Heidi doesn't look mad. Look at Heidi's face!"
+    ],
+    "feelings.not_surprised": [
+     81.289,
+     3.368,
+     "Hmm, Heidi doesn't look surprised. Look at Heidi's face!"
+    ],
+    "feelings.not_scared": [
+     84.798,
+     3.03,
+     "Hmm, Heidi doesn't look scared. Look at Heidi's face!"
+    ],
+    "feelings.not_sleepy": [
+     87.968,
+     3.006,
+     "Hmm, Heidi doesn't look sleepy. Look at Heidi's face!"
+    ],
+    "feelings.not_silly": [
+     91.114,
+     2.878,
+     "Hmm, Heidi doesn't look silly. Look at Heidi's face!"
+    ],
+    "feelings.not_love": [
+     94.132,
+     3.031,
+     "Hmm, Heidi doesn't look loving. Look at Heidi's face!"
+    ],
+    "feelings.better": [
+     97.303,
+     2.071,
+     "Now Heidi feels better. Hugs!"
+    ],
+    "feelings.all_done": [
+     99.514,
+     1.431,
+     "You know how Heidi feels!"
+    ]
+   }
+  },
+  "hideseek": {
+   "file": "hideseek.mp3",
+   "seconds": 45.32,
+   "clips": {
+    "hideseek.title": [
+     0.24,
+     1.084,
+     "Hide and seek!"
+    ],
+    "hideseek.intro": [
+     1.464,
+     1.478,
+     "Let's play hide and seek!"
+    ],
+    "hideseek.again": [
+     3.082,
+     1.705,
+     "Heidi is going to hide again!"
+    ],
+    "hideseek.close_eyes": [
+     4.927,
+     1.035,
+     "Close your eyes!"
+    ],
+    "hideseek.ready": [
+     6.101,
+     1.619,
+     "Ready or not, here I come!"
+    ],
+    "hideseek.where": [
+     7.861,
+     0.949,
+     "Where is Heidi?"
+    ],
+    "hideseek.clue_behind": [
+     8.95,
+     1.888,
+     "Heidi is hiding behind something!"
+    ],
+    "hideseek.clue_under": [
+     10.978,
+     1.82,
+     "Heidi is hiding under something!"
+    ],
+    "hideseek.clue_in": [
+     12.938,
+     1.905,
+     "Heidi is hiding inside something!"
+    ],
+    "hideseek.not_here": [
+     14.983,
+     0.825,
+     "Not here!"
+    ],
+    "hideseek.not_here2": [
+     15.948,
+     1.216,
+     "Heidi is not here!"
+    ],
+    "hideseek.not_here3": [
+     17.303,
+     0.968,
+     "Keep looking!"
+    ],
+    "hideseek.item_sock": [
+     18.411,
+     0.779,
+     "A sock!"
+    ],
+    "hideseek.item_ball": [
+     19.33,
+     0.789,
+     "A ball!"
+    ],
+    "hideseek.item_teddy": [
+     20.259,
+     0.984,
+     "A teddy bear!"
+    ],
+    "hideseek.item_mouse": [
+     21.382,
+     0.993,
+     "A little mouse!"
+    ],
+    "hideseek.item_duck": [
+     22.515,
+     1.013,
+     "A rubber duck!"
+    ],
+    "hideseek.item_frog": [
+     23.669,
+     0.873,
+     "A froggy!"
+    ],
+    "hideseek.item_boot": [
+     24.682,
+     0.797,
+     "A boot!"
+    ],
+    "hideseek.item_banana": [
+     25.619,
+     0.881,
+     "A banana!"
+    ],
+    "hideseek.found_bed": [
+     26.64,
+     1.37,
+     "Heidi was under the bed!"
+    ],
+    "hideseek.found_toybox": [
+     28.15,
+     1.571,
+     "Heidi was in the toy box!"
+    ],
+    "hideseek.found_curtain": [
+     29.86,
+     1.747,
+     "Heidi was behind the curtain!"
+    ],
+    "hideseek.found_couch": [
+     31.747,
+     1.575,
+     "Heidi was behind the couch!"
+    ],
+    "hideseek.found_tree": [
+     33.462,
+     1.577,
+     "Heidi was behind the tree!"
+    ],
+    "hideseek.found_basket": [
+     35.179,
+     1.427,
+     "Heidi was in the basket!"
+    ],
+    "hideseek.found_blanket": [
+     36.746,
+     1.598,
+     "Heidi was under the blanket!"
+    ],
+    "hideseek.found_table": [
+     38.484,
+     1.476,
+     "Heidi was under the table!"
+    ],
+    "hideseek.found_bush": [
+     40.1,
+     1.555,
+     "Heidi was behind the bush!"
+    ],
+    "hideseek.all": [
+     41.795,
+     3.33,
+     "You found Heidi every time! You are great at hide and seek!"
+    ]
+   }
+  },
+  "letters": {
+   "file": "letters.mp3",
+   "seconds": 57.67,
+   "clips": {
+    "letters.a": [
+     0.24,
+     0.646,
+     "A!"
+    ],
+    "letters.a_word": [
+     1.026,
+     1.065,
+     "A is for apple!"
+    ],
+    "letters.b": [
+     2.23,
+     0.672,
+     "Bee!"
+    ],
+    "letters.b_word": [
+     3.042,
+     1.116,
+     "Bee is for ball!"
+    ],
+    "letters.c": [
+     4.298,
+     0.693,
+     "See!"
+    ],
+    "letters.c_word": [
+     5.131,
+     1.091,
+     "See is for cat!"
+    ],
+    "letters.d": [
+     6.362,
+     0.684,
+     "Dee!"
+    ],
+    "letters.d_word": [
+     7.186,
+     1.198,
+     "Dee is for dog!"
+    ],
+    "letters.e": [
+     8.523,
+     0.704,
+     "E!"
+    ],
+    "letters.e_word": [
+     9.368,
+     1.268,
+     "Ee is for elephant!"
+    ],
+    "letters.f": [
+     10.775,
+     0.821,
+     "Eff!"
+    ],
+    "letters.f_word": [
+     11.736,
+     1.326,
+     "Eff is for fish!"
+    ],
+    "letters.g": [
+     13.202,
+     0.725,
+     "Gee!"
+    ],
+    "letters.g_word": [
+     14.068,
+     1.284,
+     "Gee is for giraffe!"
+    ],
+    "letters.h": [
+     15.492,
+     0.693,
+     "Aitch!"
+    ],
+    "letters.h_word": [
+     16.325,
+     1.195,
+     "Aitch is for house!"
+    ],
+    "letters.i": [
+     17.661,
+     0.651,
+     "Eye!"
+    ],
+    "letters.i_word": [
+     18.451,
+     1.33,
+     "Eye is for ice cream!"
+    ],
+    "letters.j": [
+     19.921,
+     0.732,
+     "Jay!"
+    ],
+    "letters.j_word": [
+     20.794,
+     1.262,
+     "Jay is for juice!"
+    ],
+    "letters.k": [
+     22.196,
+     0.703,
+     "Kay!"
+    ],
+    "letters.k_word": [
+     23.039,
+     1.163,
+     "Kay is for kite!"
+    ],
+    "letters.l": [
+     24.342,
+     0.64,
+     "Ell!"
+    ],
+    "letters.l_word": [
+     25.122,
+     1.166,
+     "Ell is for lion!"
+    ],
+    "letters.m": [
+     26.428,
+     0.673,
+     "Em!"
+    ],
+    "letters.m_word": [
+     27.241,
+     1.208,
+     "Em is for monkey!"
+    ],
+    "letters.n": [
+     28.589,
+     0.648,
+     "En!"
+    ],
+    "letters.n_word": [
+     29.377,
+     1.216,
+     "En is for nose!"
+    ],
+    "letters.o": [
+     30.734,
+     0.635,
+     "Oh!"
+    ],
+    "letters.o_word": [
+     31.509,
+     1.312,
+     "Oh is for octopus!"
+    ],
+    "letters.p": [
+     32.961,
+     0.71,
+     "Pee!"
+    ],
+    "letters.p_word": [
+     33.811,
+     1.136,
+     "Pee is for pig!"
+    ],
+    "letters.q": [
+     35.087,
+     0.688,
+     "Cue!"
+    ],
+    "letters.q_word": [
+     35.915,
+     1.234,
+     "Cue is for queen!"
+    ],
+    "letters.r": [
+     37.289,
+     0.653,
+     "Are!"
+    ],
+    "letters.r_word": [
+     38.082,
+     1.26,
+     "Are is for rainbow!"
+    ],
+    "letters.s": [
+     39.482,
+     0.65,
+     "Ess!"
+    ],
+    "letters.s_word": [
+     40.272,
+     1.125,
+     "Ess is for sun!"
+    ],
+    "letters.t": [
+     41.537,
+     0.7,
+     "Tee!"
+    ],
+    "letters.t_word": [
+     42.376,
+     1.241,
+     "Tee is for turtle!"
+    ],
+    "letters.u": [
+     43.757,
+     0.672,
+     "You!"
+    ],
+    "letters.u_word": [
+     44.569,
+     1.213,
+     "You is for umbrella!"
+    ],
+    "letters.v": [
+     45.923,
+     0.693,
+     "Vee!"
+    ],
+    "letters.v_word": [
+     46.756,
+     1.326,
+     "Vee is for violin!"
+    ],
+    "letters.w": [
+     48.222,
+     0.878,
+     "Double you!"
+    ],
+    "letters.w_word": [
+     49.24,
+     1.346,
+     "Double you is for whale!"
+    ],
+    "letters.x": [
+     50.726,
+     0.693,
+     "Ex!"
+    ],
+    "letters.x_word": [
+     51.56,
+     1.525,
+     "Ex is for xylophone!"
+    ],
+    "letters.y": [
+     53.225,
+     0.69,
+     "Why!"
+    ],
+    "letters.y_word": [
+     54.055,
+     1.257,
+     "Why is for yo-yo!"
+    ],
+    "letters.z": [
+     55.452,
+     0.679,
+     "Zee!"
+    ],
+    "letters.z_word": [
+     56.271,
+     1.197,
+     "Zee is for zebra!"
+    ]
+   }
+  },
+  "match": {
+   "file": "match.mp3",
+   "seconds": 11.3,
+   "clips": {
+    "match.title": [
+     0.24,
+     1.052,
+     "Memory match!"
+    ],
+    "match.intro": [
+     1.432,
+     1.652,
+     "Let's find the pairs that match!"
+    ],
+    "match.look": [
+     3.225,
+     0.961,
+     "Look closely!"
+    ],
+    "match.find": [
+     4.325,
+     1.404,
+     "Now find the matches!"
+    ],
+    "match.a_match": [
+     5.87,
+     0.916,
+     "It's a match!"
+    ],
+    "match.not_match": [
+     6.925,
+     1.781,
+     "Not a match. Keep looking!"
+    ],
+    "match.next": [
+     8.846,
+     0.989,
+     "More cards!"
+    ],
+    "match.all": [
+     9.975,
+     1.122,
+     "You found them all!"
+    ]
+   }
+  },
+  "music": {
+   "file": "music.mp3",
+   "seconds": 31.9,
+   "clips": {
+    "music.title": [
+     0.24,
+     1.052,
+     "Music maker!"
+    ],
+    "music.menu": [
+     1.432,
+     1.256,
+     "What do you want to play?"
+    ],
+    "music.xylophone": [
+     2.828,
+     1.084,
+     "The xylophone!"
+    ],
+    "music.drums": [
+     4.052,
+     0.9,
+     "The drums!"
+    ],
+    "music.band": [
+     5.092,
+     1.163,
+     "The animal band!"
+    ],
+    "music.song": [
+     6.394,
+     0.989,
+     "Play a song!"
+    ],
+    "music.xylo_intro": [
+     7.523,
+     2.187,
+     "Tap the colorful bars to make music!"
+    ],
+    "music.drums_intro": [
+     9.85,
+     1.739,
+     "Bang the drums! Boom boom!"
+    ],
+    "music.band_intro": [
+     11.729,
+     1.888,
+     "Tap the animals to make them sing!"
+    ],
+    "music.tap_more": [
+     13.756,
+     1.011,
+     "Tap and play!"
+    ],
+    "music.reward_ready": [
+     14.908,
+     2.185,
+     "What beautiful music! Tap the star!"
+    ],
+    "music.free_done": [
+     17.233,
+     1.259,
+     "You are a music star!"
+    ],
+    "music.pick_song": [
+     18.632,
+     0.961,
+     "Pick a song!"
+    ],
+    "music.follow": [
+     19.733,
+     1.33,
+     "Tap the glowing one!"
+    ],
+    "music.try_glow": [
+     21.203,
+     1.33,
+     "Try the glowing one!"
+    ],
+    "music.song_twinkle": [
+     22.673,
+     1.859,
+     "Twinkle, twinkle, little star!"
+    ],
+    "music.song_mary": [
+     24.672,
+     1.312,
+     "Mary had a little lamb!"
+    ],
+    "music.song_row": [
+     26.124,
+     1.525,
+     "Row, row, row your boat!"
+    ],
+    "music.song_macdonald": [
+     27.789,
+     1.696,
+     "Old MacDonald had a farm!"
+    ],
+    "music.song_done": [
+     29.625,
+     2.077,
+     "You played the whole song! Wonderful!"
+    ]
+   }
+  },
+  "numbers": {
+   "file": "numbers.mp3",
+   "seconds": 60.3,
+   "clips": {
+    "numbers.0": [
+     0.24,
+     0.795,
+     "Zero!"
+    ],
+    "numbers.1": [
+     1.175,
+     0.682,
+     "One!"
+    ],
+    "numbers.2": [
+     1.997,
+     0.699,
+     "Two!"
+    ],
+    "numbers.3": [
+     2.836,
+     0.736,
+     "Three!"
+    ],
+    "numbers.4": [
+     3.712,
+     0.75,
+     "Four!"
+    ],
+    "numbers.5": [
+     4.602,
+     0.733,
+     "Five!"
+    ],
+    "numbers.6": [
+     5.475,
+     0.748,
+     "Six!"
+    ],
+    "numbers.7": [
+     6.363,
+     0.784,
+     "Seven!"
+    ],
+    "numbers.8": [
+     7.287,
+     0.71,
+     "Eight!"
+    ],
+    "numbers.9": [
+     8.137,
+     0.726,
+     "Nine!"
+    ],
+    "numbers.10": [
+     9.003,
+     0.696,
+     "Ten!"
+    ],
+    "numbers.11": [
+     9.839,
+     0.799,
+     "Eleven!"
+    ],
+    "numbers.12": [
+     10.777,
+     0.79,
+     "Twelve!"
+    ],
+    "numbers.13": [
+     11.707,
+     0.858,
+     "Thirteen!"
+    ],
+    "numbers.14": [
+     12.705,
+     0.851,
+     "Fourteen!"
+    ],
+    "numbers.15": [
+     13.696,
+     0.839,
+     "Fifteen!"
+    ],
+    "numbers.16": [
+     14.674,
+     0.968,
+     "Sixteen!"
+    ],
+    "numbers.17": [
+     15.782,
+     0.99,
+     "Seventeen!"
+    ],
+    "numbers.18": [
+     16.912,
+     0.835,
+     "Eighteen!"
+    ],
+    "numbers.19": [
+     17.887,
+     0.864,
+     "Nineteen!"
+    ],
+    "numbers.20": [
+     18.891,
+     0.821,
+     "Twenty!"
+    ],
+    "numbers.title": [
+     19.852,
+     1.035,
+     "Counting fun!"
+    ],
+    "numbers.tap_each": [
+     21.027,
+     1.05,
+     "Tap each one!"
+    ],
+    "numbers.lets_count": [
+     22.217,
+     1.405,
+     "Let's count them together!"
+    ],
+    "numbers.yum": [
+     23.762,
+     1.724,
+     "Yum yum yum! Thank you!"
+    ],
+    "numbers.enough": [
+     25.626,
+     1.973,
+     "That's plenty! Heidi has enough."
+    ],
+    "numbers.win": [
+     27.739,
+     1.529,
+     "You are so good at counting!"
+    ],
+    "numbers.count_apples": [
+     29.409,
+     1.35,
+     "Let's count the apples!"
+    ],
+    "numbers.count_ducks": [
+     30.899,
+     1.332,
+     "Let's count the ducks!"
+    ],
+    "numbers.count_stars": [
+     32.371,
+     1.396,
+     "Let's count the stars!"
+    ],
+    "numbers.count_cars": [
+     33.907,
+     1.333,
+     "Let's count the cars!"
+    ],
+    "numbers.count_cookies": [
+     35.38,
+     1.371,
+     "Let's count the cookies!"
+    ],
+    "numbers.count_balloons": [
+     36.891,
+     1.409,
+     "Let's count the balloons!"
+    ],
+    "numbers.count_flowers": [
+     38.44,
+     1.393,
+     "Let's count the flowers!"
+    ],
+    "numbers.count_fish": [
+     39.973,
+     1.264,
+     "Let's count the fish!"
+    ],
+    "numbers.count_butterflies": [
+     41.378,
+     1.579,
+     "Let's count the butterflies!"
+    ],
+    "numbers.count_strawberries": [
+     43.097,
+     1.559,
+     "Let's count the strawberries!"
+    ],
+    "numbers.give_1": [
+     44.796,
+     1.395,
+     "Give Heidi one treat!"
+    ],
+    "numbers.give_2": [
+     46.332,
+     1.331,
+     "Give Heidi two treats!"
+    ],
+    "numbers.give_3": [
+     47.803,
+     1.374,
+     "Give Heidi three treats!"
+    ],
+    "numbers.give_4": [
+     49.317,
+     1.374,
+     "Give Heidi four treats!"
+    ],
+    "numbers.give_5": [
+     50.831,
+     1.498,
+     "Give Heidi five treats!"
+    ],
+    "numbers.give_6": [
+     52.469,
+     1.392,
+     "Give Heidi six treats!"
+    ],
+    "numbers.give_7": [
+     54.001,
+     1.52,
+     "Give Heidi seven treats!"
+    ],
+    "numbers.give_8": [
+     55.661,
+     1.353,
+     "Give Heidi eight treats!"
+    ],
+    "numbers.give_9": [
+     57.154,
+     1.434,
+     "Give Heidi nine treats!"
+    ],
+    "numbers.give_10": [
+     58.728,
+     1.371,
+     "Give Heidi ten treats!"
+    ]
+   }
+  },
+  "potty": {
+   "file": "potty.mp3",
+   "seconds": 75.61,
+   "clips": {
+    "potty.title": [
+     0.24,
+     1.151,
+     "Duck goes potty!"
+    ],
+    "potty.need": [
+     1.531,
+     2.123,
+     "Uh oh! Duck needs to go potty!"
+    ],
+    "potty.go": [
+     3.793,
+     3.324,
+     "Help Duck get to the potty! Tap the potty, or drag Duck!"
+    ],
+    "potty.pants_down": [
+     7.258,
+     1.033,
+     "Pants down!"
+    ],
+    "potty.pants_down_hint": [
+     8.431,
+     2.281,
+     "Tap Duck's shorts, or swipe them down!"
+    ],
+    "potty.sit": [
+     10.851,
+     1.323,
+     "Duck sits on the potty."
+    ],
+    "potty.which": [
+     12.314,
+     2.054,
+     "Does Duck need to go pee, or poop?"
+    ],
+    "potty.pee": [
+     14.508,
+     1.026,
+     "Okay, a pee!"
+    ],
+    "potty.poop": [
+     15.674,
+     0.736,
+     "Poop!"
+    ],
+    "potty.pee_go": [
+     16.55,
+     2.519,
+     "Psss... Duck went pee in the potty!"
+    ],
+    "potty.poop_push": [
+     19.209,
+     1.189,
+     "Hmmmm..."
+    ],
+    "potty.poop_go": [
+     20.538,
+     1.892,
+     "Plop! Duck went poop in the potty!"
+    ],
+    "potty.good_duck": [
+     22.57,
+     1.173,
+     "Good job, Duck!"
+    ],
+    "potty.wipe": [
+     23.883,
+     0.706,
+     "Wipe!"
+    ],
+    "potty.wipe_hint": [
+     24.729,
+     1.449,
+     "Tap the toilet paper!"
+    ],
+    "potty.wipe_done": [
+     26.318,
+     2.017,
+     "Wipe, wipe, wipe. All clean!"
+    ],
+    "potty.pants_up": [
+     28.474,
+     0.879,
+     "Pants up!"
+    ],
+    "potty.pants_up_hint": [
+     29.493,
+     2.04,
+     "Tap Duck's shorts, or swipe them up!"
+    ],
+    "potty.pants_ok": [
+     31.674,
+     0.928,
+     "Pants are up!"
+    ],
+    "potty.flush": [
+     32.742,
+     1.062,
+     "Flush the potty!"
+    ],
+    "potty.flush_hint": [
+     33.944,
+     1.073,
+     "Push the handle!"
+    ],
+    "potty.bye_pee": [
+     35.157,
+     1.089,
+     "Bye bye, pee!"
+    ],
+    "potty.bye_poop": [
+     36.387,
+     1.136,
+     "Bye bye, poop!"
+    ],
+    "potty.wash": [
+     37.663,
+     1.369,
+     "Now, wash your hands!"
+    ],
+    "potty.soap": [
+     39.171,
+     1.026,
+     "Push the soap!"
+    ],
+    "potty.soap_hint": [
+     40.338,
+     1.356,
+     "Tap the soap bottle!"
+    ],
+    "potty.scrub": [
+     41.834,
+     1.362,
+     "Scrub, scrub, scrub!"
+    ],
+    "potty.scrub_hint": [
+     43.336,
+     1.824,
+     "Rub Duck's hands, or tap them!"
+    ],
+    "potty.scrub_more": [
+     45.3,
+     1.05,
+     "Keep scrubbing!"
+    ],
+    "potty.so_bubbly": [
+     46.491,
+     0.959,
+     "So bubbly!"
+    ],
+    "potty.rinse": [
+     47.59,
+     1.937,
+     "Now rinse! Turn on the water!"
+    ],
+    "potty.rinse_hint": [
+     49.667,
+     1.041,
+     "Tap the water!"
+    ],
+    "potty.rinse_done": [
+     50.848,
+     1.766,
+     "Splash, splash! All clean!"
+    ],
+    "potty.dry": [
+     52.753,
+     1.073,
+     "Dry your hands!"
+    ],
+    "potty.dry_hint": [
+     53.967,
+     1.106,
+     "Tap the towel!"
+    ],
+    "potty.dry_done": [
+     55.213,
+     1.075,
+     "Nice and dry!"
+    ],
+    "potty.chart": [
+     56.429,
+     1.898,
+     "Yay, Duck! You used the potty!"
+    ],
+    "potty.star": [
+     58.467,
+     1.744,
+     "Here comes a star for the chart!"
+    ],
+    "potty.chart_full": [
+     60.351,
+     2.183,
+     "The chart is full of stars! Wow!"
+    ],
+    "potty.not_yet": [
+     62.674,
+     0.827,
+     "Not yet!"
+    ],
+    "potty.look_glow": [
+     63.642,
+     1.197,
+     "Look for the sparkle!"
+    ],
+    "potty.whats_next": [
+     64.979,
+     1.099,
+     "What comes next?"
+    ],
+    "potty.yes_wipe": [
+     66.218,
+     1.387,
+     "Yes! Next we wipe!"
+    ],
+    "potty.no_wipe": [
+     67.745,
+     1.671,
+     "Not yet. First, we wipe!"
+    ],
+    "potty.yes_wash": [
+     69.555,
+     1.986,
+     "Yes! Next we wash our hands!"
+    ],
+    "potty.no_wash": [
+     71.681,
+     2.236,
+     "Not yet. First, we wash our hands!"
+    ],
+    "potty.win": [
+     74.057,
+     1.351,
+     "Duck is so proud of you!"
+    ]
+   }
+  },
+  "shadows": {
+   "file": "shadows.mp3",
+   "seconds": 16.34,
+   "clips": {
+    "shadows.title": [
+     0.24,
+     1.013,
+     "Shadow match!"
+    ],
+    "shadows.intro": [
+     1.393,
+     1.735,
+     "Can you match each one to its shadow?"
+    ],
+    "shadows.drag": [
+     3.268,
+     1.269,
+     "Drag it to its shadow!"
+    ],
+    "shadows.find": [
+     4.678,
+     1.096,
+     "Find its shadow!"
+    ],
+    "shadows.whose": [
+     5.914,
+     1.294,
+     "Whose shadow is this?"
+    ],
+    "shadows.t_animals": [
+     7.348,
+     1.184,
+     "Animal shadows!"
+    ],
+    "shadows.t_vehicles": [
+     8.672,
+     1.449,
+     "Let's match the vehicles!"
+    ],
+    "shadows.t_food": [
+     10.261,
+     1.264,
+     "Yummy food shadows!"
+    ],
+    "shadows.t_play": [
+     11.664,
+     1.333,
+     "Toys and fun things!"
+    ],
+    "shadows.all": [
+     13.138,
+     1.456,
+     "You matched all the shadows!"
+    ],
+    "shadows.win": [
+     14.734,
+     1.403,
+     "You found every shadow!"
+    ]
+   }
+  },
+  "shapes": {
+   "file": "shapes.mp3",
+   "seconds": 23.32,
+   "clips": {
+    "shapes.circle": [
+     0.24,
+     0.797,
+     "Circle!"
+    ],
+    "shapes.square": [
+     1.177,
+     0.744,
+     "Square!"
+    ],
+    "shapes.triangle": [
+     2.061,
+     0.907,
+     "Triangle!"
+    ],
+    "shapes.rectangle": [
+     3.107,
+     0.926,
+     "Rectangle!"
+    ],
+    "shapes.star": [
+     4.173,
+     0.765,
+     "Star!"
+    ],
+    "shapes.heart": [
+     5.078,
+     0.736,
+     "Heart!"
+    ],
+    "shapes.oval": [
+     5.954,
+     0.716,
+     "Oval!"
+    ],
+    "shapes.diamond": [
+     6.809,
+     0.848,
+     "Diamond!"
+    ],
+    "shapes.title": [
+     7.798,
+     0.992,
+     "Shape sorter!"
+    ],
+    "shapes.intro": [
+     8.93,
+     1.648,
+     "Let's put the shapes in the box!"
+    ],
+    "shapes.drag": [
+     10.717,
+     1.557,
+     "Drag each shape to its hole!"
+    ],
+    "shapes.find_hole": [
+     12.414,
+     1.184,
+     "Can you find its hole?"
+    ],
+    "shapes.next": [
+     13.738,
+     1.35,
+     "More shapes to sort!"
+    ],
+    "shapes.two_same": [
+     15.228,
+     2.549,
+     "Look! Two of the same shape, in different colors!"
+    ],
+    "shapes.all_in": [
+     17.918,
+     1.586,
+     "All the shapes are in the box!"
+    ],
+    "shapes.surprise": [
+     19.644,
+     1.909,
+     "Surprise! Shapes everywhere!"
+    ],
+    "shapes.win": [
+     21.693,
+     1.427,
+     "You sorted all the shapes!"
+    ]
+   }
+  },
+  "tracing": {
+   "file": "tracing.mp3",
+   "seconds": 21.89,
+   "clips": {
+    "tracing.title": [
+     0.24,
+     0.856,
+     "Trace it!"
+    ],
+    "tracing.intro": [
+     1.236,
+     1.454,
+     "Let's trace with your finger!"
+    ],
+    "tracing.lets_trace": [
+     2.831,
+     1.009,
+     "Let's trace"
+    ],
+    "tracing.trace_line": [
+     3.98,
+     1.257,
+     "Let's trace a line!"
+    ],
+    "tracing.trace_circle": [
+     5.377,
+     1.411,
+     "Let's trace a circle!"
+    ],
+    "tracing.trace_zigzag": [
+     6.928,
+     1.409,
+     "Let's trace a zigzag!"
+    ],
+    "tracing.trace_wave": [
+     8.477,
+     1.281,
+     "Let's trace a wave!"
+    ],
+    "tracing.done_line": [
+     9.898,
+     0.981,
+     "You made a line!"
+    ],
+    "tracing.done_circle": [
+     11.019,
+     1.089,
+     "You made a circle!"
+    ],
+    "tracing.done_zigzag": [
+     12.248,
+     1.108,
+     "You made a zigzag!"
+    ],
+    "tracing.done_wave": [
+     13.497,
+     1.022,
+     "You made a wave!"
+    ],
+    "tracing.follow": [
+     14.659,
+     1.121,
+     "Follow the dots!"
+    ],
+    "tracing.start_here": [
+     15.92,
+     0.917,
+     "Start here!"
+    ],
+    "tracing.keep_going": [
+     16.977,
+     0.975,
+     "Keep going!"
+    ],
+    "tracing.next_part": [
+     18.092,
+     1.043,
+     "Now this part!"
+    ],
+    "tracing.redo": [
+     19.275,
+     1.108,
+     "Let's try again!"
+    ],
+    "tracing.all_done": [
+     20.524,
+     1.163,
+     "You traced them all!"
+    ]
+   }
+  },
+  "words": {
+   "file": "words.mp3",
+   "seconds": 50.57,
+   "clips": {
+    "words.apple": [
+     0.24,
+     0.745,
+     "Apple!"
+    ],
+    "words.banana": [
+     1.125,
+     0.772,
+     "Banana!"
+    ],
+    "words.strawberry": [
+     2.037,
+     0.889,
+     "Strawberry!"
+    ],
+    "words.grapes": [
+     3.066,
+     0.787,
+     "Grapes!"
+    ],
+    "words.orange": [
+     3.993,
+     0.757,
+     "Orange!"
+    ],
+    "words.watermelon": [
+     4.891,
+     0.972,
+     "Watermelon!"
+    ],
+    "words.carrot": [
+     6.003,
+     0.77,
+     "Carrot!"
+    ],
+    "words.broccoli": [
+     6.912,
+     0.845,
+     "Broccoli!"
+    ],
+    "words.corn": [
+     7.897,
+     0.748,
+     "Corn!"
+    ],
+    "words.cookie": [
+     8.785,
+     0.736,
+     "Cookie!"
+    ],
+    "words.cupcake": [
+     9.661,
+     0.843,
+     "Cupcake!"
+    ],
+    "words.pizza": [
+     10.644,
+     0.842,
+     "Pizza!"
+    ],
+    "words.milk": [
+     11.626,
+     0.715,
+     "Milk!"
+    ],
+    "words.cheese": [
+     12.481,
+     0.813,
+     "Cheese!"
+    ],
+    "words.egg": [
+     13.434,
+     0.671,
+     "Egg!"
+    ],
+    "words.ball": [
+     14.245,
+     0.728,
+     "Ball!"
+    ],
+    "words.teddy": [
+     15.113,
+     0.882,
+     "Teddy bear!"
+    ],
+    "words.blocks": [
+     16.135,
+     0.792,
+     "Blocks!"
+    ],
+    "words.kite": [
+     17.067,
+     0.724,
+     "Kite!"
+    ],
+    "words.yoyo": [
+     17.93,
+     0.811,
+     "Yo-yo!"
+    ],
+    "words.balloon": [
+     18.881,
+     0.804,
+     "Balloon!"
+    ],
+    "words.drum": [
+     19.825,
+     0.743,
+     "Drum!"
+    ],
+    "words.doll": [
+     20.707,
+     0.762,
+     "Dolly!"
+    ],
+    "words.car": [
+     21.609,
+     0.737,
+     "Car!"
+    ],
+    "words.bus": [
+     22.487,
+     0.766,
+     "A bus!"
+    ],
+    "words.train": [
+     23.393,
+     0.787,
+     "Train!"
+    ],
+    "words.airplane": [
+     24.32,
+     0.902,
+     "Airplane!"
+    ],
+    "words.boat": [
+     25.362,
+     0.707,
+     "Boat!"
+    ],
+    "words.truck": [
+     26.209,
+     0.71,
+     "Truck!"
+    ],
+    "words.firetruck": [
+     27.059,
+     0.951,
+     "Fire truck!"
+    ],
+    "words.rocket": [
+     28.15,
+     0.8,
+     "Rocket!"
+    ],
+    "words.bike": [
+     29.09,
+     0.704,
+     "Bike!"
+    ],
+    "words.book": [
+     29.934,
+     0.686,
+     "Book!"
+    ],
+    "words.shoe": [
+     30.76,
+     0.715,
+     "Shoe!"
+    ],
+    "words.sock": [
+     31.614,
+     0.735,
+     "Sock!"
+    ],
+    "words.shirt": [
+     32.489,
+     0.723,
+     "Shirt!"
+    ],
+    "words.dress": [
+     33.352,
+     0.715,
+     "Dress!"
+    ],
+    "words.hat": [
+     34.207,
+     0.705,
+     "Hat!"
+    ],
+    "words.pants": [
+     35.052,
+     0.757,
+     "Pants!"
+    ],
+    "words.coat": [
+     35.949,
+     0.706,
+     "Coat!"
+    ],
+    "words.cup": [
+     36.796,
+     0.757,
+     "A cup!"
+    ],
+    "words.spoon": [
+     37.693,
+     0.768,
+     "Spoon!"
+    ],
+    "words.bed": [
+     38.601,
+     0.651,
+     "Bed!"
+    ],
+    "words.chair": [
+     39.391,
+     0.734,
+     "Chair!"
+    ],
+    "words.toothbrush": [
+     40.265,
+     0.874,
+     "Toothbrush!"
+    ],
+    "words.flower": [
+     41.279,
+     0.79,
+     "Flower!"
+    ],
+    "words.tree": [
+     42.209,
+     0.743,
+     "Tree!"
+    ],
+    "words.star": [
+     43.092,
+     0.765,
+     "Star!"
+    ],
+    "words.moon": [
+     43.997,
+     0.713,
+     "Moon!"
+    ],
+    "words.sun": [
+     44.85,
+     0.713,
+     "Sun!"
+    ],
+    "words.rainbow": [
+     45.703,
+     0.869,
+     "Rainbow!"
+    ],
+    "words.cloud": [
+     46.712,
+     0.779,
+     "Cloud!"
+    ],
+    "words.heart": [
+     47.631,
+     0.736,
+     "Heart!"
+    ],
+    "words.butterfly": [
+     48.507,
+     0.906,
+     "Butterfly!"
+    ],
+    "words.umbrella": [
+     49.553,
+     0.814,
+     "Umbrella!"
+    ]
+   }
+  }
+ },
+ "schema": 1,
+ "voice": "Kokoro 65% af_bella / 35% af_heart",
+ "speed": 1.05,
+ "synthetic": true
+}

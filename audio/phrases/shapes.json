@@ -1,0 +1,19 @@
+{
+  "shapes.circle": "Circle!",
+  "shapes.square": "Square!",
+  "shapes.triangle": "Triangle!",
+  "shapes.rectangle": "Rectangle!",
+  "shapes.star": "Star!",
+  "shapes.heart": "Heart!",
+  "shapes.oval": "Oval!",
+  "shapes.diamond": "Diamond!",
+  "shapes.title": "Shape sorter!",
+  "shapes.intro": "Let's put the shapes in the box!",
+  "shapes.drag": "Drag each shape to its hole!",
+  "shapes.find_hole": "Can you find its hole?",
+  "shapes.next": "More shapes to sort!",
+  "shapes.two_same": "Look! Two of the same shape, in different colors!",
+  "shapes.all_in": "All the shapes are in the box!",
+  "shapes.surprise": "Surprise! Shapes everywhere!",
+  "shapes.win": "You sorted all the shapes!"
+}

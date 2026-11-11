@@ -1,0 +1,19 @@
+Little Playhouse third-party notices
+
+VOICE
+The spoken clips in audio/*.mp3 are original AI-generated recordings rendered
+locally at build time with Kokoro-82M v1.0, a blend of 65% af_bella and
+35% af_heart (the same voice as Little Buttons). They are not recordings or a
+voice clone of any real person. No speech model or service ships with the app.
+Model: hexgrad/Kokoro-82M, Apache License 2.0 - https://huggingface.co/hexgrad/Kokoro-82M
+Build-time renderer: kokoro-onnx 0.6.1, MIT License - https://github.com/thewh1teagle/kokoro-onnx
+audio/manifest.json lists every clip's text.
+
+SOUNDS, MUSIC AND PICTURES
+Sound effects and the background music are synthesized by the app at runtime
+with the Web Audio API. Characters, scenes and the app icon are original SVG
+drawings. Pictures of everyday things use the device's own emoji font.
+Melodies in Music Maker (Twinkle Twinkle Little Star, Mary Had a Little Lamb,
+Row Row Row Your Boat, Old MacDonald) are traditional and in the public domain.
+
+No analytics, ads, accounts, trackers or network services are used.

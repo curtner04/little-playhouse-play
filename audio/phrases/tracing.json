@@ -1,0 +1,19 @@
+{
+  "tracing.title": "Trace it!",
+  "tracing.intro": "Let's trace with your finger!",
+  "tracing.lets_trace": "Let's trace",
+  "tracing.trace_line": "Let's trace a line!",
+  "tracing.trace_circle": "Let's trace a circle!",
+  "tracing.trace_zigzag": "Let's trace a zigzag!",
+  "tracing.trace_wave": "Let's trace a wave!",
+  "tracing.done_line": "You made a line!",
+  "tracing.done_circle": "You made a circle!",
+  "tracing.done_zigzag": "You made a zigzag!",
+  "tracing.done_wave": "You made a wave!",
+  "tracing.follow": "Follow the dots!",
+  "tracing.start_here": "Start here!",
+  "tracing.keep_going": "Keep going!",
+  "tracing.next_part": "Now this part!",
+  "tracing.redo": "Let's try again!",
+  "tracing.all_done": "You traced them all!"
+}

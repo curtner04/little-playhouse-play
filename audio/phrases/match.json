@@ -1,0 +1,10 @@
+{
+  "match.title": "Memory match!",
+  "match.intro": "Let's find the pairs that match!",
+  "match.look": "Look closely!",
+  "match.find": "Now find the matches!",
+  "match.a_match": "It's a match!",
+  "match.not_match": "Not a match. Keep looking!",
+  "match.next": "More cards!",
+  "match.all": "You found them all!"
+}

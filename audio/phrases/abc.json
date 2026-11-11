@@ -1,0 +1,14 @@
+{
+  "abc.title": "A B C fun!",
+  "abc.intro": "Let's play with letters! Tap a picture!",
+  "abc.mode_explore": "Let's explore the letters!",
+  "abc.mode_find": "Let's find the letters!",
+  "abc.explore_intro": "Tap a letter to meet it!",
+  "abc.tap_letter": "Tap a letter!",
+  "abc.find_intro": "Listen close, and find the letter!",
+  "abc.find": "Find",
+  "abc.find_match": "Which big letter is the same as this one?",
+  "abc.that_is": "That's",
+  "abc.explored": "You met so many letters!",
+  "abc.found_all": "You found all the letters!"
+}
