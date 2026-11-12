@@ -1,17 +1,21 @@
 Little Playhouse third-party notices
 
-VOICE
-The spoken clips in audio/*.mp3 are original AI-generated recordings rendered
-locally at build time with Kokoro-82M v1.0, a blend of 65% af_bella and
-35% af_heart (the same voice as Little Buttons). They are not recordings or a
-voice clone of any real person. No speech model or service ships with the app.
-Model: hexgrad/Kokoro-82M, Apache License 2.0 - https://huggingface.co/hexgrad/Kokoro-82M
-Build-time renderer: kokoro-onnx 0.6.1, MIT License - https://github.com/thewh1teagle/kokoro-onnx
-audio/manifest.json lists every clip's text.
+VOICE, SOUNDS AND MUSIC
+The spoken clips in audio/<group>.mp3 are AI-generated with ElevenLabs Eleven v4
+(the premade voice "Jessica"), made for this app through fal.ai when it was
+built. They are not recordings or a voice clone of any real person.
+The animal sounds, most game sound effects (audio/sfx.mp3) and the home-screen
+song (audio/music-home.mp3) are AI-generated too: the sounds with ElevenLabs
+Sound Effects v3 and the song with Google Lyria 3.5, also through fal.ai.
+Taps, clicks and the Music Maker instruments are synthesized by the app at
+runtime with the Web Audio API, which also stands in for any recording that
+hasn't loaded. The app itself contacts no speech, sound or music service.
+audio/manifest.json lists every spoken clip's text.
+Until version 1.2.0 the voice was Kokoro-82M v1.0 (hexgrad/Kokoro-82M, Apache
+License 2.0), rendered locally with kokoro-onnx 0.6.1 (MIT License).
 
-SOUNDS, MUSIC AND PICTURES
-Sound effects and the background music are synthesized by the app at runtime
-with the Web Audio API. Characters, scenes and the app icon are original SVG
+PICTURES
+Characters, scenes and the app icon are original SVG
 drawings. Pictures of everyday things use the device's own emoji font.
 Melodies in Music Maker (Twinkle Twinkle Little Star, Mary Had a Little Lamb,
 Row Row Row Your Boat, Old MacDonald) are traditional and in the public domain.

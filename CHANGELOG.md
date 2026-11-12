@@ -1,5 +1,14 @@
 # Little Playhouse changelog
 
+## 1.3.0 - 2026-11-12
+
+- **A brand-new, excited voice.** Every spoken line was re-recorded with a much livelier voice (ElevenLabs Eleven v4): cheers sound like cheers, "try again" sounds kind, and bedtime lines are soft.
+- **Real animal sounds:** the animals now really moo, bark, quack, roar (friendly roars) and sing instead of the voice saying "Moo! Moo!". Heidi barks like a real dog too. The voice still says what each animal says.
+- **Recorded sound effects:** bubble pops, splashes, the potty flush, munching, sparkles and the ta-da are real sounds now, and kids cheer when she wins a sticker.
+- **Real music** on the home screen: a bouncy ukulele-and-glockenspiel song in place of the beeping tune.
+- The pee line in Duck Goes Potty now says "Tinkle, tinkle!"
+- Taps, clicks and Music Maker's instruments are still made by the app, and if a recording can't load, the old built-in sound plays instead.
+
 ## 1.2.0 - 2026-11-11
 
 - **Heidi looks like Heidi:** a black-and-tan French bulldog with tan eyebrow spots, cheeks, chin, chest and legs, and amber eyes. The app icon shows her too. A phone that still had the old fawn colors switches to Heidi's on its own; hats, outfits and every other Dress Up choice stay as they were.

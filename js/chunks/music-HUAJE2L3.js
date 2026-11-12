@@ -1,4 +1,4 @@
-import{t as R}from"./chunk-HPDXCFL3.js";import"./chunk-6UW75IXT.js";var W=`
+import{t as R}from"./chunk-RPOD2FPY.js";import"./chunk-6UW75IXT.js";var W=`
 .game-root[data-game="music"] { background: linear-gradient(180deg, #FFE3F7, #FFF3D6); }
 
 /* ---------- menus ---------- */
